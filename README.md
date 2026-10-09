@@ -1,1 +1,1 @@
-# ME597_Fall2026_HW1
+# ME579_Fall2026_HW1
